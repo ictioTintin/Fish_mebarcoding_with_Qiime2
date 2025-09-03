@@ -1,6 +1,6 @@
 # Fish_mebarcoding_with_Qiime2
 
->English version here:\
+>Version en español aquí:\
 >[Fish metabarcoding with Qiime2](https://github.com/ictioTintin/Mebarcoding_en_peces_con_Qiime2)
 
 _Martin Holguin Osorio_\
